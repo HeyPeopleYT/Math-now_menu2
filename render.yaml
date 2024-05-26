@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: math-now_menu
+    env: docker
+    plan: free
